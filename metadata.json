@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Control",
+  "description": "Self-governing digital wellbeing, accessibility-powered website/keyword/incognito/Reels blocker, strict mode, customizable overlay lock screen, and optional AI screen context guardian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

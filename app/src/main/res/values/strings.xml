@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aegis Control</string>
+    <string name="accessibility_service_label">Aegis Self-Control Guardian</string>
+    <string name="accessibility_service_description">Aegis Control uses Accessibility Services to enforce your self-governing digital wellbeing rules: blocking restricted websites and keywords across all browsers, preventing Incognito tabs, stopping Reels and YouTube Shorts, measuring scroll distance, and evaluating optional AI screen context rules.</string>
+    <string name="notification_listener_label">Aegis AI Notification Summarizer</string>
+    <string name="nav_command">Command</string>
+    <string name="nav_analytics">Usage &amp; Scroll</string>
+    <string name="nav_rules">Blockers</string>
+    <string name="nav_ai_guard">AI &amp; Digest</string>
+    <string name="nav_studio">Block Studio</string>
+    <string name="btn_go_back_safety">Go Back to Safety</string>
+    <string name="btn_access_5_min">Access for 5 Minutes</string>
+    <string name="btn_redirect_now">Open Productive Redirect URL</string>
+    <string name="strict_mode_active_badge">STRICT LOCK ACTIVE</string>
+</resources>
